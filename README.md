@@ -15,6 +15,6 @@ If you click to investigate a location there isnt a clear way to
 go back to the board. Just press ```TAB``` to go back.
 
 ## Installation
-- Download the zip file from this link: 
+- Download the zip file from this link: https://github.com/k-preslav/CaseClosed-projectFiles/releases/download/Pre-Release/Case.Closed.-.Detectives.Academy.zip
 - Extract the zip file and run ```Case Closed - Detectives Academy.exe```
 - That's it!
