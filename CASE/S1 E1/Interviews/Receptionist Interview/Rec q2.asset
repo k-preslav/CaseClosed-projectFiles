@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8935f10985059cc4b8925188a6e3403f, type: 3}
+  m_Name: Rec q2
+  m_EditorClassIdentifier: Assembly-CSharp::InterviewDialog
+  audio: {fileID: 8300000, guid: 7619e05aec2ac7a4f9d5e2331cf69eba, type: 3}
+  subtitleLine: No one came asking for his room. If they had, i would've remembered.
+  layerLevel: 0
+  dialogButtonText: Did he have any visitors?

@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c2af757fcd5789f44b50e0fe0429847c, type: 3}
+  m_Name: Receptionist Suspect
+  m_EditorClassIdentifier: Assembly-CSharp::CardData
+  cardName: Receptionist
+  description: 
+  cardType: 1
+  linkedSceneAsset: {fileID: 0}
+  linkedSceneName: 
+  linkedInterviewData: {fileID: 11400000, guid: 135fffaad50f45e46bcd5495ca89ee38, type: 2}
+  positionOnBoard: {x: 1000, y: 1000}
